@@ -8,8 +8,7 @@
 ## Competencias
 - Possuo conhecimento vasto no backEnd da linguagem C++
 - Já desenvolvi projetos utilizando typescript
-- Aprendi AdonisJs, um framework de Node.js
-## 
+- Aprendi AdonisJs, um framework de Node.js 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -17,6 +16,7 @@
 </div>
 
 ## 
+## ⬇️ Entre em contato ⬇️
 <div> 
   <a href="https://instagram.com/opedro.goncalves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-gonçalves-194834282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
