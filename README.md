@@ -8,7 +8,8 @@
 ## Competencias
 - Possuo conhecimento vasto no backEnd da linguagem C++
 - Já desenvolvi projetos utilizando typescript
-- Aprendi AdonisJs, um framework de Node.js 
+- Aprendi AdonisJs, um framework de Node.js
+- Sou autor de projetos programados em Java
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
